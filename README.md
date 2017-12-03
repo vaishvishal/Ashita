@@ -1,0 +1,2 @@
+# Ashita
+Just another repository
